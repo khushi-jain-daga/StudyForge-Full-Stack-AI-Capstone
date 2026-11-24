@@ -1,0 +1,1 @@
+{"name":"studyforge-ai","version":"1.0.0","private":true,"scripts":{"start":"node --env-file-if-exists=.env server.js","test":"node --test"},"dependencies":{"express":"^4.21.2","mongoose":"^8.9.0","bcryptjs":"^2.4.3","jsonwebtoken":"^9.0.2","helmet":"^8.0.0","express-rate-limit":"^7.5.0"}}
